@@ -1,2 +1,3 @@
 # hello-world-now-react
-My first Git repository will use react.js
+
+This is my first git repository to use ReactJS.
